@@ -1,7 +1,6 @@
 # Anton Francis Jeejo
 
 [![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=antonfrancisjeejo)](https://github.com/antonfrancisjeejo)
 [![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-n-v-886b1a198/)](https://www.linkedin.com/in/francis-n-v-886b1a198/)
 
 
