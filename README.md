@@ -5,11 +5,13 @@
 
 
 
-
 ## About me 
 I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
 I'm open-source development enthusiast, an instructor and a freelancer.
 
+
+### "Code until you find your solution"! 👋
+![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
