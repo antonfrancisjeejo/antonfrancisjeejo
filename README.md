@@ -33,6 +33,12 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
 
-### Interesting stats
+### My Github Stats
 
-![Anton Francis Jeejo's stats](https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true)
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
+</p>
+
