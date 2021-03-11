@@ -42,3 +42,5 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryaprakash31" alt="Views" /> </p>
+
