@@ -42,5 +42,10 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryaprakash31" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonfrancisjeejo" alt="Views" /> </p>
 
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
