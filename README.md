@@ -1,7 +1,7 @@
 # Anton Francis Jeejo
 
 [![Github](https://img.shields.io/github/followers/antonfrancisjeejo?label=Follow&style=social)](https://github.com/antonfrancisjeejo)
-[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-n-v-886b1a198/)](https://www.linkedin.com/in/francis-n-v-886b1a198/)
+[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)](https://www.linkedin.com/in/antonfrancisjeejo/)
 
 <a href="https://app.daily.dev/antonjeejo13"><img src="https://github.com/antonfrancisjeejo/antonfrancisjeejo/blob/master/devcard.svg" width="300" alt="Anton Francis Jeejo's Dev Card"/></a>
 
